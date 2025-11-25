@@ -1,10 +1,9 @@
-## sunnypark87 👋
+## 박재선
 
 ### Projects
 
+- [Bawky Studio](https://github.com/Bawky-Studio/Bawky-Studio-Website)
 - [동아리마트](https://github.com/sunnypark87/dongarimart)
-
----
 
 ### University
 
