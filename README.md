@@ -1,4 +1,12 @@
-## Hi there 👋
+## sunnypark87 👋
+
+### Projects
+
+- [동아리마트](https://github.com/sunnypark87/dongarimart)
+
+---
+
+### University Projects
 
 <!--
 **sunnypark87/sunnypark87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
