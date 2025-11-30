@@ -8,7 +8,9 @@
 ## University
 
 ### 2025
-- [바이브코딩 해커톤](https://github.com/BawkZilla/2025_PNU_TechWeek_Hackathon_PythonHaters)
+- PNU TECK WEEK \
+  [바이브코딩을 활용한 해커톤 게임부문](https://github.com/BawkZilla/2025_PNU_TechWeek_Hackathon_PythonHaters)
+- 컴퓨터네트워크 - [과제]()
 
 ### 2024
 - 컴퓨터그래픽스 - [텀프로젝트](https://github.com/sunnypark87/24_2_CG_Project_QuizFinder)
@@ -21,6 +23,8 @@
 - 인공지능 - [과제]()
 - 플랫폼기반프로그래밍 - [과제]()
 - AI 프로그래밍 - [과제 및 실습 자료](https://github.com/sunnypark87/2023_PNU_AI_Programming)
+
+
 <!--
 **sunnypark87/sunnypark87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
