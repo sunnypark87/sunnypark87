@@ -2,8 +2,8 @@
 
 ### Projects
 
-- [Bawky Studio](https://github.com/Bawky-Studio/Bawky-Studio-Website)
-- [동아리마트](https://github.com/sunnypark87/dongarimart)
+- [Bawky Studio](https://github.com/Bawky-Studio/Bawky-Studio-Website) - 인디게임 스튜디오 웹사이트
+- [동아리마트](https://github.com/sunnypark87/dongarimart) - 부산대학교 동아리 홍보 웹사이트 
 
 ### University
 
@@ -11,11 +11,11 @@
 - [바이브코딩 해커톤](https://github.com/BawkZilla/2025_PNU_TechWeek_Hackathon_PythonHaters)
 
 ##### 2024
-- [컴퓨터그래픽스 텀프로젝트](https://github.com/sunnypark87/24_2_CG_Project_QuizFinder)
+- 컴퓨터그래픽스 - [텀프로젝트](https://github.com/sunnypark87/24_2_CG_Project_QuizFinder)
 
 ##### 2023
-- [AI프로그래밍](https://github.com/sunnypark87/2023_PNU_AI_Programming) 
-- [데이터과학입문](https://github.com/sunnypark87/2023_PNU_Introduction_to_DataScience) 
+- AI 프로그래밍 - [과제 및 실습 자료](https://github.com/sunnypark87/2023_PNU_AI_Programming) 
+- 데이터과학입문 - [과제 및 실습 자료](https://github.com/sunnypark87/2023_PNU_Introduction_to_DataScience) 
 
 <!--
 **sunnypark87/sunnypark87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
