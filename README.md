@@ -2,8 +2,10 @@
 
 ## Projects
 
-- Bawky Studio: 인디게임 스튜디오 웹사이트 - [링크](https://github.com/Bawky-Studio/Bawky-Studio-Website)
-- 동아리마트: 부산대학교 동아리 홍보 웹사이트 - [링크](https://github.com/sunnypark87/dongarimart)
+- Bawky Studio \
+  : 인디게임 스튜디오 웹사이트 - [링크](https://github.com/Bawky-Studio/Bawky-Studio-Website)
+- 동아리마트 \
+  : 부산대학교 동아리 홍보 웹사이트 - [링크](https://github.com/sunnypark87/dongarimart)
 
 ## Experience
 - PNU TECK WEEK \
