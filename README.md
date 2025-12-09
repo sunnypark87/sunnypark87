@@ -5,11 +5,13 @@
 - [Bawky Studio](https://github.com/Bawky-Studio/Bawky-Studio-Website) - 인디게임 스튜디오 웹사이트
 - [동아리마트](https://github.com/sunnypark87/dongarimart) - 부산대학교 동아리 홍보 웹사이트 
 
-## University
-
-### 2025
+## Experience
 - PNU TECK WEEK \
   [바이브코딩을 활용한 해커톤 게임부문](https://github.com/BawkZilla/2025_PNU_TechWeek_Hackathon_PythonHaters)
+
+
+## Education
+### 2025
 - 컴퓨터네트워크 - [과제](https://github.com/sunnypark87/2025_PNU_Computer_Network)
 
 ### 2024
