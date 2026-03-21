@@ -2,17 +2,26 @@
 
 ## Projects
 
-- Bawky Studio \
+- Un-Finished Object (2026/01 ~ ) \
+  : 뜨개질 커뮤니티
+- Bawky Studio (2025/12 ~ ) \
   : 인디게임 스튜디오 웹사이트 - [링크](https://github.com/Bawky-Studio/Bawky-Studio-Website)
-- 동아리마트 \
+- 동아리마트 (2023/12 ~ 2024/03) \
   : 부산대학교 동아리 홍보 웹사이트 - [링크](https://github.com/sunnypark87/dongarimart)
 
 ## Experience
-- PNU TECK WEEK \
+- PNU 지역 문제 해결 에듀테크 해커톤 (2026/01/23 ~ 2026/01/24) \
+  : MVP 개발 - [링크](https://github.com/sunnypark87/2026-PNU-EduTech-Hackathon)
+- 국민체육진흥공단 공공데이터 활용 경진대회 (2025/12) \
+  : 프론트엔드 개발 - [링크](https://github.com/sunnypark87/2025-KSPO-Public-Data-Contest)
+- PNU TECK WEEK (2025/10) \
   : 바이브코딩을 활용한 해커톤 게임부문 - [링크](https://github.com/BawkZilla/2025_PNU_TechWeek_Hackathon_PythonHaters)
 
 
 ## Education
+### 2026
+- 프로그래밍 언어론 - [과제]
+
 ### 2025
 - 컴퓨터네트워크 - [과제](https://github.com/sunnypark87/2025_PNU_Computer_Network)
 
