@@ -3,9 +3,9 @@
 ## Projects
 
 - Un-Finished Object (2026/01 ~ ) : 뜨개질 커뮤니티 - [링크](https://github.com/Un-Finished-Object/ufo-fe) \
-  프론트엔드 개발 : UI 구현, 
+  프론트엔드 개발, 데이터 분석 
 - Bawky Studio (2025/12 ~ ) : 인디게임 스튜디오 웹사이트 - [링크](https://github.com/Bawky-Studio/Bawky-Studio-Website) \
-  웹사이트 개발 및 운영 : UI 구현, 
+  웹사이트 개발 및 운영
 - 동아리마트 (2023/12 ~ 2024/03) : 부산대학교 동아리 홍보 웹사이트 - [링크](https://github.com/sunnypark87/dongarimart) \
   백엔드 개발 : DB 설계, 로그인 및 사용자 관련 API 개발
 
