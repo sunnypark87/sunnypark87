@@ -3,20 +3,20 @@
 ## Projects
 
 - Un-Finished Object (2026/01 ~ ) : 뜨개질 커뮤니티
-  - 프론트엔드 개발 - [링크](https://github.com/Un-Finished-Object/ufo-fe) \
-  - 데이터 분석 - [링크](https://github.com/Un-Finished-Object/ufo_yarn_recommendation)
-- Bawky Studio (2025/12 ~ ) : 인디게임 스튜디오 웹사이트 - [링크](https://github.com/Bawky-Studio/Bawky-Studio-Website) \
+  - 프론트엔드 개발 - [저장소 링크](https://github.com/Un-Finished-Object/ufo-fe) \
+  - 데이터 분석 - [저장소 링크](https://github.com/Un-Finished-Object/ufo_yarn_recommendation)
+- Bawky Studio (2025/12 ~ ) : 인디게임 스튜디오 웹사이트 - [저장소 링크](https://github.com/Bawky-Studio/Bawky-Studio-Website) \
   웹사이트 개발 및 운영
-- 캡스톤 디자인 (2025/04 ~ 2025/10) : 마이크로 컨트롤러에서의 안전한 로봇 어플리케이션 수행을 위한 원격 증명 기술 개발 \
+- 캡스톤 디자인 (2025/04 ~ 2025/10) : 마이크로 컨트롤러에서의 안전한 로봇 어플리케이션 수행을 위한 원격 증명 기술 개발 - [저장소 링크]() \
   임베디드 보드에 DICE 이식, unprivileged mode 사용을 위한 mpu 연구
-- 동아리마트 (2023/12 ~ 2024/03) : 부산대학교 동아리 홍보 웹사이트 - [링크](https://github.com/sunnypark87/dongarimart) \
+- 동아리마트 (2023/12 ~ 2024/03) : 부산대학교 동아리 홍보 웹사이트 - [저장소 링크](https://github.com/sunnypark87/dongarimart) \
   백엔드 개발 : DB 설계, 로그인 및 사용자 관련 API 개발
 
 ## Experience
 
-- PNU 지역 문제 해결 에듀테크 해커톤 (2026/01/23 ~ 2026/01/24) : 커리큘럼 설계 서비스 - [링크](https://github.com/sunnypark87/2026-PNU-EduTech-Hackathon) \
+- PNU 지역 문제 해결 에듀테크 해커톤 (2026/01/23 ~ 2026/01/24) : 커리큘럼 설계 서비스 - [저장소 링크](https://github.com/sunnypark87/2026-PNU-EduTech-Hackathon) \
   웹 기반 MVP 개발
-- 국민체육진흥공단 공공데이터 활용 경진대회 (2025/12) : 러너의 부상방지를 목적으로 한 자가진단 서비스 - [링크](https://github.com/sunnypark87/2025-KSPO-Public-Data-Contest) \
+- 국민체육진흥공단 공공데이터 활용 경진대회 (2025/12) : 러너의 부상방지를 목적으로 한 자가진단 서비스 - [저장소 링크](https://github.com/sunnypark87/2025-KSPO-Public-Data-Contest) \
   프론트엔드 개발 및 배포 관리
 
 ## Education
