@@ -20,7 +20,7 @@
 
 ## Education
 ### 2026
-- 프로그래밍 언어론 - [과제]
+- 프로그래밍 언어론 - [과제](https://github.com/sunnypark87/2026_PNU_Programming_Languages)
 
 ### 2025
 - 컴퓨터네트워크 - [과제](https://github.com/sunnypark87/2025_PNU_Computer_Network)
