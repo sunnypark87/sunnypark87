@@ -6,7 +6,7 @@
   - 프론트엔드 개발 - [저장소 링크](https://github.com/Un-Finished-Object/ufo-fe) \
   - 데이터 분석 - [저장소 링크](https://github.com/Un-Finished-Object/ufo_yarn_recommendation)
 - 캡스톤 디자인 (2025/04 ~ 2025/10) : 마이크로 컨트롤러에서의 안전한 로봇 어플리케이션 수행을 위한 원격 증명 기술 개발 - [저장소 링크](https://github.com/pnucse-capstone2025/Capstone-2025-team-38) \
-  임베디드 보드에 DICE 이식, unprivileged mode 사용을 위한 mpu 연구
+  - 임베디드 보드에 DICE 이식, unprivileged mode 사용을 위한 mpu 연구
 - 동아리마트 (2023/12 ~ 2024/03) : 부산대학교 동아리 홍보 웹사이트 - [저장소 링크](https://github.com/sunnypark87/dongarimart) \
   백엔드 개발 : DB 설계, 로그인 및 사용자 관련 API 개발
 
