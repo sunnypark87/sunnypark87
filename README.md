@@ -12,7 +12,7 @@ C와 Zephyr RTOS를 활용한 임베디드 시스템까지 경험하며
 ---
 ## Featured Projects
 
-### 01. UFO - 뜨개 커뮤니티
+### 01. UFO - 뜨개질 커뮤니티
 `Next.js` `TypeScript` `TanStack Query` `STOMP WebSocket`
 
 뜨개 도안 탐색과 실시간 채팅방 기능을 제공하는 커뮤니티 서비스입니다.
@@ -33,7 +33,7 @@ C와 Zephyr RTOS를 활용한 임베디드 시스템까지 경험하며
 **Embedded Software Developer ∙ 2025.04 - 2025.10**
 - micro-ROS Agent 통신 장애를 시스템 구성요소별로 분리하여 원인 추적
 - Google DICE 구현의 함수 흐름과 의존성을 분석해 Zephyr 환경으로 이식
-- MPU를 활용해 애플리케이션 코드를 unprivileged mode로 실행하고 필요한 연산만 priviledged 권한에서 수행하도록 권한 전환 구조 구현
+- MPU를 활용해 애플리케이션 코드를 unprivileged mode로 실행하고 필요한 연산만 privileged 권한에서 수행하도록 권한 전환 구조 구현
 
 [Repository](https://github.com/pnucse-capstone2025/Capstone-2025-team-38)
 
@@ -54,14 +54,14 @@ C와 Zephyr RTOS를 활용한 임베디드 시스템까지 경험하며
 --- 
 ## Competitions
 
-- **모두기브** - AI Builder Sprint
-  AI 상담∙OCR∙전자서명을 활용한 기부 관리 서비스
+- **모두기브** - AI Builder Sprint  
+  AI 상담∙OCR∙전자서명을 활용한 기부 관리 서비스  
   [Repository](https://github.com/sunnypark87/AI-Builder-Sprint-Loop)
-- **디그리폴리오** - PNU지역문제해결 에듀테크 해커톤
-  커리어 로드맵을 설계하는 AI 교과설계 서비스
+- **디그리폴리오** - PNU지역문제해결 에듀테크 해커톤  
+  커리어 로드맵을 설계하는 AI 교과설계 서비스  
   [Repository](https://github.com/sunnypark87/2026-PNU-EduTech-Hackathon)
-- **Runner-Type** - 국민체육진흥공단 공공데이터 활용 경진대회
-  공공데이터 기반 러닝 신체능력 분석 서비스
+- **Runner-Type** - 국민체육진흥공단 공공데이터 활용 경진대회  
+  공공데이터 기반 러닝 신체능력 분석 서비스  
   [Repository](https://github.com/sunnypark87/2025-KSPO-Public-Data-Contest)
 
 ---
